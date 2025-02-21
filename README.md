@@ -1,2 +1,2 @@
 # DS
-The practice of problem solving quesions
+The practice of problem solving questions
